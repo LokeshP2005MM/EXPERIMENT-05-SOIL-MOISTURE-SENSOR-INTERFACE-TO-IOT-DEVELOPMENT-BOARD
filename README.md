@@ -1,5 +1,7 @@
 # EXPERIMENT-05 SOIL MOISTURE SENSOR INTERFACE TO IOT DEVELOPMENT BOARD
-
+## Name : LOKESH P
+## Register Number :2305001015
+## Department : CSE
 ## Aim: 
 
 To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
@@ -265,12 +267,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 ## Output screen shots on serial monitor   :
- 
- <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/2651c59f-f016-4711-a0d4-5c80f3ffc7fc" />
+
+ <img width="1920" height="1080" alt="Screenshot 2026-09-22 115549" src="https://github.com/user-attachments/assets/681c594b-e84a-45c7-b234-8a00e6096aaa" />
+
 
 ## Circuit Diagram :
 
-<img width="1280" height="720" alt="WhatsApp Image 2026-09-22 at 11 49 26 AM" src="https://github.com/user-attachments/assets/35b9f502-05da-443b-9c4d-a5e943079997" />
+<img width="1600" height="720" alt="WhatsApp Image 2026-09-29 at 10 54 58 AM" src="https://github.com/user-attachments/assets/5dfba191-88e1-4c8e-8a58-1d5ba0127c79" />
+
 
  
  
